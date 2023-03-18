@@ -3,7 +3,7 @@
 ;MAIN FILE FOR ASSEMBLER CODE ON STREAMS.
 ;WE USING PENTAGON-128K MODEL EMULATION.
 ;
-;CPU:   Zilog Z80, 3.5HhZ, 1976.
+;CPU:   Zilog Z80, 3.5Mhz, 1976.
 ;RAM:   48Kb, 128Kb With more memory.
 ;ROM:   16Kb, base and more with 128Kb.
 ;SCREEN:256x192 monohrome pixels,
